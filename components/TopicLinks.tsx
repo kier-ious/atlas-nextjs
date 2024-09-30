@@ -1,3 +1,4 @@
+import React from "react";
 import TopicLink from "./TopicLink";
 import { fetchTopics } from "@/lib/data";
 
